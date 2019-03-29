@@ -1,0 +1,40 @@
+table,th,tr,td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+   .H{
+background-color:#4d94ff;
+}
+
+   .T{
+background-color:#9999ff;
+}
+
+   .D{
+background-color:#99ddff;
+}
+
+   .D1{
+background-color:#ffd633;
+}
+
+   .D2{
+background-color:#b366ff;
+}
+
+   .D3{
+background-color:#ff9999;
+}
+
+   .D4{
+background-color:#00e600;
+}
+
+   .D5{
+background-color:#e6ac00;
+}
+
+  .D6{
+background-color:#ff0000;
+}
